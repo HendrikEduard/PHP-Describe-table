@@ -28,7 +28,7 @@ SELECT * FROM persons_places_or_things WHERE deleted=0;
 --
 -- Data for table `persons_places_or_things`
 --
-INSERT INTO `persons_places_or_things` (col_1, col_2) VALUES 
+INSERT INTO `persons_places_or_things` (fullname, email, phone, message) VALUES 
  (' ', ' ', ' ', ' '),
  (' ', ' ', ' ', ' '),
  (' ', ' ', ' ', ' '),
