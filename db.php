@@ -1,7 +1,7 @@
 <?php
 // DB credentials. => These *should* be on a seperate page.
 $host = '127.0.0.1';
-$db   = 'Ghp02FgpuqfbeO';
+$db   = '16_or_more_random_characters';
 $user = 'never_use_root';
 $pass = 'never_use_password';
 $charset = 'utf8mb4';
