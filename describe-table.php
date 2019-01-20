@@ -1,7 +1,7 @@
 <?php require_once 'db.php';
 
 //The SQL statement is: DESCRIBE [INSERT TABLE NAME]
-$tableToDescribe = 'users';
+$tableToDescribe = 'table_name';
 $statement = $db->query('DESCRIBE ' . $tableToDescribe);
 
 //Fetch our result.
